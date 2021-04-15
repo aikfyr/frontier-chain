@@ -1,0 +1,2 @@
+# install
+cd frontier-chain && git checkout v0.1.0 && 
